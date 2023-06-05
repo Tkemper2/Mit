@@ -13,8 +13,10 @@ We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink 
 
 >- In BrinkLing Studio 2.0, select File > Export As > "Collada" (.dae)
 >- Use an online converter to convert your file from .dae to .stl. Here is a link to a converter: [Link](https://imagetostl.com/convert/file/dae/to/stl)
->- Import it into Fusion 360
+>- Import the file into Fusion 360
 >- Rescale your lego part to a factor of exactly 0.04
+
+
 
 
 First, choose the part you would like to import into Fusion 360. Then proceed as follows
