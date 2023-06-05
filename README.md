@@ -9,18 +9,14 @@ We have designed our cars using the software [Fusion 360](https://www.autodesk.f
 >- [Motor]()
 >- [Servo]()
 
-We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink Studio 2.0](https://www.bricklink.com/v3/studio/download.page). It's free, easy-to-use and it gives you access to a 3d model of all LEGO pieces. It also lets you assemble parts to build LEGOs directly within the application, but here we're only interested in the 3d model of the parts. Once we have selected the part we want in brinklink, we can't export it directly to fusion 3260. Here's how to do it:
+We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink Studio 2.0](https://www.bricklink.com/v3/studio/download.page). It's free, easy-to-use and it gives you access to a 3d model of all LEGO pieces. It also lets you assemble parts to build LEGOs directly within the application, but here we're only interested in the 3d model of the parts. Once we have selected the part we want in brinklink, we can't export it directly to Fusion 360. Here's how to do it:
 
 >- In BrinkLing Studio 2.0, select File > Export As > "Collada" (.dae)
 >- Use an online converter to convert your file from .dae to .stl. Here is a link to a converter: [Link](https://imagetostl.com/convert/file/dae/to/stl)
 >- Import the file into Fusion 360
 >- Rescale your lego part to a factor of exactly 0.04
 
+Here's a short example video showing all the steps:
+"Mettre vidéo"
 
-
-
-First, choose the part you would like to import into Fusion 360. Then proceed as follows
-
-
-
-Once all the parts have been imported. We were able to start designing the car. 
+Once all the parts have been imported. We were able to start designing the car. Design is a long and sometimes complicated process. The right solution doesn't come out on the first try, and sometimes you have to try again and again to get it right. There are a number of factors to take into account. In our case, we wanted the car to turn quickly. Which implies to have a small turning radius. ...
