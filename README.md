@@ -26,4 +26,4 @@ Another gearbox ...
 Taking these factors into account, we designed our car. Here's a timelapse of all the design process:
 Mettre vidéo 2
 
-
+Once the car has been designed, all that's left to do is print out the parts and build he car. 
