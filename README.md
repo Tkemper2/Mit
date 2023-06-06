@@ -28,13 +28,16 @@ Another important factor when building a car is the gearbox. Having a gearbox is
 
 Taking these factors into account, we designed our car. Here's a timelapse of all the design process:
 
+https://github.com/Tkemper2/Mit/assets/88060913/b2918575-23df-4beb-b804-f0b5db6590ea
 
 Once the car has been designed, all that's left to do is print out the parts and build the car. 
 
 
 Here is a short animation showing how to assemble the car:
 
-https://github.com/Tkemper2/Mit/assets/88060913/93d17449-4729-4290-9ca7-c006c39b531a
+https://github.com/Tkemper2/Mit/assets/88060913/b78b8728-a230-4b86-b17d-893465fc888c
+
+
 
 
 
