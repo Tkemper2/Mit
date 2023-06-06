@@ -36,8 +36,6 @@ Taking these factors into account, we designed our car. Here's a timelapse of al
 
 [Video Link](https://drive.google.com/file/d/1rE5q6M1Bsel_EN98zFcnqaiaQ2I-tCT6/view?usp=share_link)
 
-While designing, we made some choice...
-
 Once the car has been designed, all that's left to do is print out the parts and build the car. 
 
 To print the pieces, we used a Prusa printer (Original Prusa i3 MK3S & MK3S+) with a PETG filament. To use these printers, you need the [PrusaSlicer software](https://www.prusa3d.com/fr/page/prusaslicer_424/). Here are the steps to follow to print a part:
