@@ -55,12 +55,11 @@ https://github.com/Tkemper2/Mit/assets/88060913/b78b8728-a230-4b86-b17d-893465fc
 
 Here are some photos and a video of the cars:
 
-![IMG_0516](https://github.com/Tkemper2/Mit/assets/88060913/aefc16d8-a669-47a4-a1d3-32d01f1f1645)
+![Image_of_one_Car](Images/IMG_0516.jpeg)
 
-![IMG_0515](https://github.com/Tkemper2/Mit/assets/88060913/e21a5ee2-a1e0-488e-a58c-7083fb37ffb2)
+![Image_of_the_6_Cars](Images/IMG_0515.jpeg)
 
 
-https://github.com/Tkemper2/Mit/assets/88060913/117a3f9c-0ade-4712-9fff-7a281356abea
 
 
 
