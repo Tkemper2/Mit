@@ -63,5 +63,7 @@ Here is a video of the car driving:
 
 [Video Link](https://drive.google.com/file/d/1jisL-YeDmEC7GNVOm17FnNlMF6QsF6Wv/view?usp=share_link)
 
+For more details about the 3d model of the car, you can download the file LEGO - car.f3z from the repository.
+
 
 
