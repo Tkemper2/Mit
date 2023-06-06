@@ -20,7 +20,7 @@ We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink 
 
 Once all the parts have been imported. We were able to start designing the car. Design is a long and sometimes complicated process. The right solution doesn't come out on the first try, and sometimes you have to try again and again to get it right. There are a number of factors to take into account. In our case, we wanted the car to turn quickly. Which implies to have a small turning radius. One way of calculating it (approximately) is to measure the wheelbase (Wb), the steer angle (Sa) and the wheel width (Ww). The wheelbase is the distant beetween the front wheels and the rear wheels. The steering angle is the maximum angle at which the wheels can turn. 
 
-<img width="700" alt="image_tr" src="https://github.com/Tkemper2/Mit/assets/88060913/8562f448-2deb-46a0-a2e4-40b0e5d0e896">
+![Image_of_one_Car](Images/image_tr.png)
 
 [Image source](https://www.theautopian.com/the-engineering-behind-why-some-cars-can-turn-tighter-than-others/)
 
@@ -60,7 +60,7 @@ Here are some photos and a video of the cars:
 ![Image_of_the_6_Cars](Images/IMG_0515.jpeg)
 
 <video controls>
-  <source src="https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/view">
+  <source src="https://drive.google.com/uc?export=download&id=1SugGETj4QmX7_Ma__iNNMzapm10kMvRc">
   Your browser does not support the video tag.
 </video>
 
