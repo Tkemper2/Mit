@@ -59,7 +59,18 @@ Here are some photos and a video of the cars:
 
 ![Image_of_the_6_Cars](Images/IMG_0515.jpeg)
 
-<iframe src="https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/preview" width="640" height="480"></iframe>
+<!DOCTYPE html>
+<html>
+<body>
+  
+  <iframe src="https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/view" ></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
+
+</body>
+</html>
 
 
 
