@@ -34,7 +34,7 @@ Another important factor when building a car is the gearbox. Having a gearbox is
 
 Taking these factors into account, we designed our car. Here's a timelapse of all the design process:
 
-https://github.com/Tkemper2/Mit/assets/88060913/b2918575-23df-4beb-b804-f0b5db6590ea
+https://drive.google.com/file/d/1rE5q6M1Bsel_EN98zFcnqaiaQ2I-tCT6/view?usp=share_link
 
 While designing, we made some choice...
 
@@ -51,7 +51,7 @@ Of course there are a number of things to be careful about when printing. It's i
 
 Here is a short animation showing how to assemble the car:
 
-https://github.com/Tkemper2/Mit/assets/88060913/b78b8728-a230-4b86-b17d-893465fc888c
+https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/view?usp=share_link
 
 Here are some photos and a video of the cars:
 
@@ -59,19 +59,7 @@ Here are some photos and a video of the cars:
 
 ![Image_of_the_6_Cars](Images/IMG_0515.jpeg)
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-  <iframe src="https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/view" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
-
-</body>
-</html>
-
+https://drive.google.com/file/d/1jisL-YeDmEC7GNVOm17FnNlMF6QsF6Wv/view?usp=share_link
 
 
 
