@@ -1,13 +1,15 @@
 # Cars
 
 ## 3D-design
-We have designed our cars using the software [Fusion 360](https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription). The cars are composed of electronics, 3d printed parts and LEGO pieces. The first step was to import all the components into Fusion 360. For the electronic components, we have downloaded some existing models, listed below:
+We have designed our cars using the software [Fusion 360](https://www.autodesk.fr/products/fusion-360/overview?term=1-YEAR&tab=subscription). The cars are composed of electronics, 3d printed parts and LEGO pieces. The first step was to import all the components into Fusion 360. For the electronic components, we have downloaded some existing models from the library [Crabcad](https://grabcad.com/library), listed below:
 
->- [ESP8266 board]()
->- [ESP32-CAM board]()
->- [L298N motor driver]()
->- [Motor]()
->- [Servo]()
+>- [ESP8266 board](https://grabcad.com/library/esp32-dev-kit-v1-1)
+>- [ESP32-CAM board](https://grabcad.com/library/esp32-cam-1/details?folder_id=6305310)
+>- [L298N motor driver](https://grabcad.com/library/l298n-17)
+>- [Motor](https://grabcad.com/library/yellow-dc-motor-1)
+>- [Servo](https://grabcad.com/library/sg90-micro-servomotor-1)
+
+The color sensor is the only component for which we didnt found a existing model. So we have precisely measured it and we have model it ourself.
 
 We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink Studio 2.0](https://www.bricklink.com/v3/studio/download.page). It's free, easy-to-use and it gives you access to a 3d model of all LEGO pieces. It also lets you assemble parts to build LEGOs directly within the application, but here we're only interested in the 3d model of the parts. Once we have selected the part we want in brinklink, we can't export it directly to Fusion 360. Here's how to do it:
 
@@ -37,8 +39,14 @@ Here is a short animation showing how to assemble the car:
 
 https://github.com/Tkemper2/Mit/assets/88060913/b78b8728-a230-4b86-b17d-893465fc888c
 
+Here are some photo and video of the cars:
+
+![IMG_0516](https://github.com/Tkemper2/Mit/assets/88060913/aefc16d8-a669-47a4-a1d3-32d01f1f1645)
+
+![IMG_0515](https://github.com/Tkemper2/Mit/assets/88060913/e21a5ee2-a1e0-488e-a58c-7083fb37ffb2)
 
 
+https://github.com/Tkemper2/Mit/assets/88060913/117a3f9c-0ade-4712-9fff-7a281356abea
 
 
 
