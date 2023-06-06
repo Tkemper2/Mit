@@ -32,3 +32,10 @@ Taking these factors into account, we designed our car. Here's a timelapse of al
 Once the car has been designed, all that's left to do is print out the parts and build the car. 
 
 
+Here is a short animation showing how to assemble the car:
+
+https://github.com/Tkemper2/Mit/assets/88060913/93d17449-4729-4290-9ca7-c006c39b531a
+
+
+
+
