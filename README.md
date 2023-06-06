@@ -16,14 +16,11 @@ We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink 
 >- Import the file into Fusion 360
 >- Rescale your lego part to a factor of exactly 0.04
 
-Here's a short example video showing all the steps:
-"Mettre vidéo"
-
-Once all the parts have been imported. We were able to start designing the car. Design is a long and sometimes complicated process. The right solution doesn't come out on the first try, and sometimes you have to try again and again to get it right. There are a number of factors to take into account. In our case, we wanted the car to turn quickly. Which implies to have a small turning radius. One way of calculating it is to  ...
+Once all the parts have been imported. We were able to start designing the car. Design is a long and sometimes complicated process. The right solution doesn't come out on the first try, and sometimes you have to try again and again to get it right. There are a number of factors to take into account. In our case, we wanted the car to turn quickly. Which implies to have a small turning radius. One way of calculating it is to measure the Wheelbase (Wb), the Steer angle (Sa) and the Wheel width (Ww). 
 
 Another gearbox ...
 
 Taking these factors into account, we designed our car. Here's a timelapse of all the design process:
 Mettre vidéo 2
 
-Once the car has been designed, all that's left to do is print out the parts and build he car. 
+Once the car has been designed, all that's left to do is print out the parts and build the car. 
