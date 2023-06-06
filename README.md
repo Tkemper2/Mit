@@ -34,7 +34,7 @@ Another important factor when building a car is the gearbox. Having a gearbox is
 
 Taking these factors into account, we designed our car. Here's a timelapse of all the design process:
 
-https://drive.google.com/file/d/1rE5q6M1Bsel_EN98zFcnqaiaQ2I-tCT6/view?usp=share_link
+[Video Link](https://drive.google.com/file/d/1rE5q6M1Bsel_EN98zFcnqaiaQ2I-tCT6/view?usp=share_link)
 
 While designing, we made some choice...
 
@@ -51,15 +51,17 @@ Of course there are a number of things to be careful about when printing. It's i
 
 Here is a short animation showing how to assemble the car:
 
-https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/view?usp=share_link
+[Video Link](https://drive.google.com/file/d/1SugGETj4QmX7_Ma__iNNMzapm10kMvRc/view?usp=share_link)
 
-Here are some photos and a video of the cars:
+Here are some photos:
 
 ![Image_of_one_Car](Images/IMG_0516.jpeg)
 
 ![Image_of_the_6_Cars](Images/IMG_0515.jpeg)
 
-https://drive.google.com/file/d/1jisL-YeDmEC7GNVOm17FnNlMF6QsF6Wv/view?usp=share_link
+Here is a video of the car driving:
+
+[Video Link](https://drive.google.com/file/d/1jisL-YeDmEC7GNVOm17FnNlMF6QsF6Wv/view?usp=share_link)
 
 
 
