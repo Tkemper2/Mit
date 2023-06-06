@@ -9,7 +9,7 @@ We have designed our cars using the software [Fusion 360](https://www.autodesk.f
 >- [Motor](https://grabcad.com/library/yellow-dc-motor-1)
 >- [Servo](https://grabcad.com/library/sg90-micro-servomotor-1)
 
-The color sensor is the only component for which we didnt found a existing model. So we have precisely measured it and we have model it ourself.
+The color sensor is the only component for which we did not found a existing model. So we have precisely measured it and we have model it ourself.
 
 We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink Studio 2.0](https://www.bricklink.com/v3/studio/download.page). It's free, easy-to-use and it gives you access to a 3d model of all LEGO pieces. It also lets you assemble parts to build LEGOs directly within the application, but here we're only interested in the 3d model of the parts. Once we have selected the part we want in brinklink, we can't export it directly to Fusion 360. Here's how to do it:
 
@@ -36,8 +36,18 @@ Taking these factors into account, we designed our car. Here's a timelapse of al
 
 https://github.com/Tkemper2/Mit/assets/88060913/b2918575-23df-4beb-b804-f0b5db6590ea
 
+While designing, we made some choice...
+
 Once the car has been designed, all that's left to do is print out the parts and build the car. 
 
+To print the pieces, we used a Prusa printer (Original Prusa i3 MK3S & MK3S+) with a PETG filament. To use these printers, you need the [PrusaSlicer software](https://www.prusa3d.com/fr/page/prusaslicer_424/) Here are the steps to follow to print a part:
+
+>- Select you part in Fusion 360 and click on "3d printing". Fusion 360 will then export an STL file.
+>- Import the STL file into PrusaSlicer.
+>- Click on "cut now". It will export a gcode file. 
+>- Select the gcode file on your printer.
+
+Of course there are a number of things to be careful about when printing. It's important to get the right settings. In our case, we used the default settings with a quality of 0.15 mm. It is also important to add support if necessary. When you need to print with support, you then have to remove it, which sometimes results in lower-quality parts. So we have designated our pieces to have to put on as little support as possible. We divides our printing into 2 sets. The first set (Set_1_S) takes 4h42 and 39.18 g of filaments. The second set (Set_2_S) takes 4h13 and 37.89 g of filaments. 
 
 Here is a short animation showing how to assemble the car:
 
