@@ -24,6 +24,8 @@ Mettre Schéma
 
 Once the measurements have been taken, we can calculate our turning radius (Tr) using this formula:   $Tr = \frac{Wb}{\sin(Sa)} + \frac{Ww}{2}$ 
 
+Our car has a turning radius of 165.5 mm.
+
 Here's a link if you want to know more about turning radius: [Link](https://en.wikipedia.org/wiki/Turning_radius)
 
 Another important factor when building a car is the gearbox. Having a gearbox is essential and very useful for a car. When our engine runs, it runs at a certain speed and with a certain torque. In a nutshell Engine torque is the force of your motor's rotational movement. The more torque the engine has, the harder it is to stop. With a gearbox ...
