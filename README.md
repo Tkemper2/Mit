@@ -40,20 +40,20 @@ While designing, we made some choice...
 
 Once the car has been designed, all that's left to do is print out the parts and build the car. 
 
-To print the pieces, we used a Prusa printer (Original Prusa i3 MK3S & MK3S+) with a PETG filament. To use these printers, you need the [PrusaSlicer software](https://www.prusa3d.com/fr/page/prusaslicer_424/) Here are the steps to follow to print a part:
+To print the pieces, we used a Prusa printer (Original Prusa i3 MK3S & MK3S+) with a PETG filament. To use these printers, you need the [PrusaSlicer software](https://www.prusa3d.com/fr/page/prusaslicer_424/). Here are the steps to follow to print a part:
 
 >- Select you part in Fusion 360 and click on "3d printing". Fusion 360 will then export an STL file.
 >- Import the STL file into PrusaSlicer.
 >- Click on "cut now". It will export a gcode file. 
 >- Select the gcode file on your printer.
 
-Of course there are a number of things to be careful about when printing. It's important to get the right settings. In our case, we used the default settings with a quality of 0.15 mm. It is also important to add support if necessary. When you need to print with support, you then have to remove it, which sometimes results in lower-quality parts. So we have designated our pieces to have to put on as little support as possible. We divides our printing into 2 sets. The first set (Set_1_S) takes 4h42 and 39.18 g of filaments. The second set (Set_2_S) takes 4h13 and 37.89 g of filaments. 
+Of course there are a number of things to be careful about when printing. It's important to get the right settings. In our case, we used the default settings with a quality of 0.15 mm. It is also important to add support if necessary. When you need to print with support, you then have to remove it, which sometimes results in lower-quality parts. So we have designated our pieces to have to put on as little support as possible. We divides our printing into 2 sets. The first set (Set_1_S) takes 4h42 and 39.18 g of filaments. The second set (Set_2_S) takes 4h13 and 37.89 g of filaments. Therefore a car takes a total of 8h55 and 77.07 g of filaments.
 
 Here is a short animation showing how to assemble the car:
 
 https://github.com/Tkemper2/Mit/assets/88060913/b78b8728-a230-4b86-b17d-893465fc888c
 
-Here are some photo and video of the cars:
+Here are some photos and a video of the cars:
 
 ![IMG_0516](https://github.com/Tkemper2/Mit/assets/88060913/aefc16d8-a669-47a4-a1d3-32d01f1f1645)
 
