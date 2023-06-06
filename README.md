@@ -9,7 +9,7 @@ We have designed our cars using the software [Fusion 360](https://www.autodesk.f
 >- [Motor](https://grabcad.com/library/yellow-dc-motor-1)
 >- [Servo](https://grabcad.com/library/sg90-micro-servomotor-1)
 
-The color sensor is the only component for which we did not found a existing model. So we have precisely measured it and we have model it ourself.
+The color sensor and the battery are the only component for which we did not found a existing model. So we have precisely measured it and we have model it ourself.
 
 We then imported the LEGO pieces. A good way of doing this is to use [BrinkLink Studio 2.0](https://www.bricklink.com/v3/studio/download.page). It's free, easy-to-use and it gives you access to a 3d model of all LEGO pieces. It also lets you assemble parts to build LEGOs directly within the application, but here we're only interested in the 3d model of the parts. Once we have selected the part we want in brinklink, we can't export it directly to Fusion 360. Here's how to do it:
 
