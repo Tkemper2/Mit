@@ -63,5 +63,37 @@ Here is a video of the car driving:
 
 For more details about the 3d model of the car, you can download the file LEGO - car.f3z from the repository.
 
+# GUI
+
+To make our project more complete, but also more fun to play, we decided to add a GUI (Graphical User Interface). Since
+our server was already coded in python, using pygame seemed to be the best solution. 
+
+## Interface
+The interface is fairly simplistic. 
+
+Mettre image complète
+
+On the left, there is a map of the circuit. On this map, a colored square indicates the position of each car, and a color 
+is associated with each car. 
+
+Mettre image gauche avec légendre
+
+On the right, there's a classification. In the upper right-hand corner is a timer. The timer starts when the race begins. 
+Below this is the ranking for each player. The number on the left corresponds to the player's position. Then the player's name. 
+To the right of this is the player's lap time. This is a measure of the time it takes the player to complete a turn. This 
+time resets to 0 each time the starting line is crossed, provided all checkpoints have been passed.  Then there's the player's 
+best lap time. On the right is a lap counter. This shows the player the number of laps remaining. A lap is added each time 
+the player crosses the start line and has passed all checkpoints. Next, the power-up is displayed. Each time the player has
+a power-up, it is diplayed here with an image associated with each power-up. Finally, when the player has finished the race. 
+That is, when he has completed the correct number of laps, a small flag is displayed, showing that the player has finished.
+
+Mettre image droite avec légende
+
+On th
+
+# Controller
+
+For the controller, we first wanted to make a joystick on our phones. But then we found out that Pygame directly supports 
+physical controllers. Since our server is coded in python, it was easy to integrate the controllers using pygame. 
 
 
