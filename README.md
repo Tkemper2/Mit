@@ -67,16 +67,13 @@ For more details about the 3d model of the car, you can download the file LEGO -
 
 To make our project more complete, but also more fun to play, we decided to add a GUI (Graphical User Interface). Since
 our server was already coded in python, using pygame seemed to be the best solution. 
-
 ## Interface
 The interface is fairly simplistic. 
 
-Mettre image complète
+![Image_of_the_GUI](Images/image_GUI_1.png)
 
 On the left, there is a map of the circuit. On this map, a colored square indicates the position of each car, and a color 
-is associated with each car. 
-
-Mettre image gauche avec légendre
+is associated with each car. Above the circuit is the start light. It is red at the first, and turns green when the race begins.
 
 On the right, there's a classification. In the upper right-hand corner is a timer. The timer starts when the race begins. 
 Below this is the ranking for each player. The number on the left corresponds to the player's position. Then the player's name. 
@@ -87,9 +84,11 @@ the player crosses the start line and has passed all checkpoints. Next, the powe
 a power-up, it is diplayed here with an image associated with each power-up. Finally, when the player has finished the race. 
 That is, when he has completed the correct number of laps, a small flag is displayed, showing that the player has finished.
 
-Mettre image droite avec légende
+![Image_of_one_the_GUI_with_legends](Images/image_GUI_2.jpeg)
 
-On th
+Here is a video showing the GUI with a game (without power_up):
+
+[Video Link](https://drive.google.com/file/d/1Wopnna9PGnGgz63frg08rsFXboGv2CES/view?usp=sharing)
 
 # Controller
 
