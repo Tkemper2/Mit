@@ -99,6 +99,9 @@ the controllers using pygame. We simply use the module joystick from pygame. Not
 pro Switch controllers perfectly, but for reasons unknown we were unable to get ps4 controllers to work. 
 
 
+[Video contoller_1](https://drive.google.com/file/d/1reOZbyJa6JoQu1c-rn_mInbwud_DtXWd/view?usp=sharing)
+
+[Video contoller_2](https://drive.google.com/file/d/1dASTlvPD5uQj2d0VwFhFrCf5u4_w9qwt/view?usp=sharing)
 
 
 
