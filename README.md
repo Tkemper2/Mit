@@ -92,7 +92,15 @@ Here is a video showing the GUI with a game (without power_up):
 
 # Controller
 
-For the controller, we first wanted to make a joystick on our phones. But then we found out that Pygame directly supports 
-physical controllers. Since our server is coded in python, it was easy to integrate the controllers using pygame. 
+For the controller, we first wanted to make a joystick on our phones. But with touch-sensitive joysticks, it was difficult
+to be precise with the controls, and it was not that fun to play with. We then looked for a way to integrate physical controllers. 
+and we found out that Pygame directly supports them. Since our server is coded in python, it was very easy to integrate 
+the controllers using pygame. We simply use the module joystick from pygame. Note that this module supports xbox one and 
+pro Switch controllers perfectly, but for reasons unknown we were unable to get ps4 controllers to work. 
+
+
+
+
+
 
 
